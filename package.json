@@ -1,6 +1,6 @@
 {
-  "name": "devportfolio-template",
-  "version": "1.2.2",
+  "name": "devportfolio",
+  "version": "1.0",
   "description": "",
   "main": "js/scripts.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "coding",
     "dev"
   ],
-  "author": "Ryan Fitzgerald",
+  "author": "Luke Colvin",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.9.0",

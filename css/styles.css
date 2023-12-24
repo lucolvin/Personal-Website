@@ -1,14 +1,13 @@
 /*!
-    Title: Dev Portfolio Template
-    Version: 1.2.2
-    Last Change: 03/25/2020
-    Author: Ryan Fitzgerald
-    Repo: https://github.com/RyanFitzgerald/devportfolio-template
-    Issues: https://github.com/RyanFitzgerald/devportfolio-template/issues
+    Title: Personal Website
+    Version: 1.0.0
+    Last Change: 12/24/2023
+    Author: Luke Colvin
+    Repo: https://github.com/lucolvin/Website
 
     Description: This file contains all the styles associated with the page
     that don't come from third party libraries. This file gets compiled using
-    Gulp and send to the /css folder which is then loaded on the page.
+    Gulp and then is sent to the /css folder which is then loaded on the page.
 */
 
 body {

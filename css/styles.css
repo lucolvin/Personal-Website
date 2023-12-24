@@ -599,6 +599,7 @@ body {
   
   #skills li {
     display: inline-block;
+    border-radius: 4px;
     margin: 7px;
     padding: 5px 10px;
     color: #374054;

@@ -10,6 +10,14 @@
     Gulp and then is sent to the /css folder which is then loaded on the page.
 */
 
+img {
+  position: relative;
+  height: 500 px;
+  max-width: 100%;
+  height: auto;
+  z-index: 1;
+}
+
 body {
     font-family: 'Lato', sans-serif;
     font-size: 16px;

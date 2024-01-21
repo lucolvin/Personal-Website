@@ -63,18 +63,18 @@ body {
     }
   }
   
-  /* header {
+  header {
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
     text-align: center;
-    z-index: 10;
+    /* z-index: 10; */
     animation-name: dropHeader;
     animation-iteration-count: 1;
     animation-timing-function: ease;
     animation-duration: 0.75s;
-  } */
+  }
   
   header ul {
     display: inline-block;

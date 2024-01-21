@@ -71,7 +71,7 @@ body {
     }
   }
   
-  header {
+  /* header {
     position: absolute;
     top: 0;
     left: 0;
@@ -162,7 +162,7 @@ body {
   
   #mobile-menu-close i {
     vertical-align: middle;
-  }
+  } */
   
   footer {
     padding: 50px 0;

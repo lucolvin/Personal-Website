@@ -615,6 +615,35 @@ body {
     cursor: default;
     font-size: 1.2em;
   }
+
+  #learning {
+    padding: 50px 15px;
+    text-align: center;
+  }
+  
+  #learning h2 {
+    color: #374054;
+    margin-bottom: 50px;
+  }
+  
+  #learning ul {
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+    max-width: 800px;
+  }
+  
+  #learning li {
+    display: inline-block;
+    border-radius: 6px;
+    margin: 7px;
+    padding: 5px 10px;
+    color: #374054;
+    background: #e4e4ea;
+    list-style: none;
+    cursor: default;
+    font-size: 1.2em;
+  }
   
   #contact {
     padding: 50px 15px;

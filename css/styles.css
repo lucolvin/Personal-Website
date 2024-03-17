@@ -10,6 +10,20 @@
     Gulp and then is sent to the /css folder which is then loaded on the page.
 */
 
+.slanted-text {
+  position: absolute;
+  top: 35%;
+  left: 30%;
+  width: 50%;
+  padding: 10px;
+  background-color: rgb(255, 0, 0); /* semi-transparent black */
+  color: white;
+  text-align: center;
+  transform: rotate(-10deg);
+  z-index: 1000;
+  overflow: hidden;
+}
+
 img {
   position: relative;
   height: 500 px;

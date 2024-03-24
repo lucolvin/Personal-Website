@@ -1,0 +1,5 @@
+# Added this to fix a bug where on page refresh it would through a 404 route not found
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /index.html [L,QSA]

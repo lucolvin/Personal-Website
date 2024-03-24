@@ -1,7 +1,0 @@
-
-            Fonts used: Lato-Bold 
-
-            Colors used: E5E5E5,E87121  
-
-            Icon url: https://thenounproject.com/term/software-development/603930  
-        
